@@ -11,7 +11,7 @@ As you will see, it is quite easy to create contracts for voting,
 crowdfunding, blind auctions, multi-signature wallets and more.
 
 On the next pages, we will first see a
-[simple smart]({{ site.url }}docs/simple-smart-contract/) written
+[simple smart contract]({{ site.url }}docs/simple-smart-contract/) written
 in Solidity followed by a basics about
 [blockchains]({{ site.url}}docs/blockchain-basics/)
 and the [Ethereum Virtual Machine]({{ site.url }}docs/the-ethereum-virtual-machine/).
@@ -24,4 +24,4 @@ Remember that you can always try out the contracts
 The last and most extensive section will cover all aspects of Solidity in depth.
 
 If you still have questions or ideas for improving Solidity or this documentation,
-please feel free to come to out [gitter channel](https://gitter.im/ethereum/solidity/).
+please feel free to come to our [gitter channel](https://gitter.im/ethereum/solidity/).
