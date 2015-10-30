@@ -36,7 +36,7 @@ other languages.
 
 This contract does not yet do much apart from (due to the infrastructure
 built by Ethereum) allowing anyone to store a single number that is accessible by
-anyone in the world without (feasible) a way to prevent you from publishing
+anyone in the world without a (feasible) way to prevent you from publishing
 this number. Of course, anyone could just call `set` again with a different value
 and overwrite your number, but the number will still be stored in the history
 of the blockchain. Later, we will see how you can impose access restrictions
